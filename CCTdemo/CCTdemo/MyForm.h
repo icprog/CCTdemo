@@ -10,7 +10,7 @@ namespace Project1 {
 	using namespace System::Drawing;
 	using namespace ZedGraph;
 
-#define APP_VERSION		0.01
+#define APP_VERSION		0.02
 #define PART_NUMBER	"??"
 
 
