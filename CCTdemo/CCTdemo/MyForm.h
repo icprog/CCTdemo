@@ -11,7 +11,7 @@ namespace Project1 {
 	using namespace ZedGraph;
 
 #define APP_VERSION		0.02
-#define PART_NUMBER	"??"
+#define PART_NUMBER	"A"
 
 
 	/// <summary>
