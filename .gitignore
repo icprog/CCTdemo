@@ -1,3 +1,5 @@
+CCTdemo/CCTdemo/Debug/
+CCTdemo/CCTdemo/Release/
 *.opensdf
 *.sdf
-CCTdemo/CCTdemo/Debug/
+*.tlog

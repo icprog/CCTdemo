@@ -27,7 +27,7 @@ namespace Project1 {
 			//TODO: Add the constructor code here
 			//
 
-			versionLbl->Text = "Version: " + double(APP_VERSION).ToString();
+			versionLbl->Text = "Current Version: " + double(APP_VERSION).ToString();
 			partNumberLbl->Text = "Part number: " + PART_NUMBER;
 
 			RedTX		= 0.640;
