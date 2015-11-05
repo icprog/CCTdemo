@@ -28,7 +28,7 @@ namespace Project1 {
 			//
 
 			versionLbl->Text = "Current Version: " + double(APP_VERSION).ToString();
-			partNumberLbl->Text = "Part number: " + PART_NUMBER;
+			partNumberLbl->Text = "Current Part number: " + PART_NUMBER;
 
 			RedTX		= 0.640;
 			RedTY		= 0.338; 
